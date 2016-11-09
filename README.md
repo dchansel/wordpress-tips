@@ -1,2 +1,2 @@
 # wordpress-tips
-Various code to add in a new wordpress
+Various codes to add in a new wordpress
